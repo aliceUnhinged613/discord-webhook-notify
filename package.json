@@ -12,6 +12,6 @@
   "dependencies": {
     "@actions/core": "^1.2.0",
     "@actions/github": "^1.1.0",
-    "webhook-discord": "^3.5.1"
+    "webhook-discord": "^3.7.8"
   }
 }
